@@ -1,0 +1,8 @@
+<!--pages/english/english.wxml-->
+<view catchtouchstart='touchStart' catchtouchend="touchEnd" catchtap="showChinese" class="word-box">
+<text> {{current.word}} </text>
+<text hidden="{{showAnswer}}"> {{ current.chinese }} </text>
+</view>
+
+
+

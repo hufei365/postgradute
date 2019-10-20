@@ -1,0 +1,31 @@
+/* pages/home/home.wxss */
+view{
+  display: flex;
+  flex-wrap: wrap;
+}
+navigator{
+  text-align: center;
+  width: 50vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.3em;
+}
+
+.english{
+  background: yellowgreen;
+}
+
+.math{
+  background: goldenrod;
+}
+
+.politics{
+  background: rosybrown;
+}
+
+.computor{
+  background: grey;
+}

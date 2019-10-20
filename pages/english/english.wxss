@@ -1,0 +1,8 @@
+/* pages/english/english.wxss */
+
+.word-box {
+  padding: 10px;
+  height: 100vh;
+  background: yellowgreen;
+  color: white;
+}

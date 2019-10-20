@@ -1,0 +1,7 @@
+<!--pages/home/home.wxml-->
+<view>
+<navigator class="english" url="../english/english">English</navigator> 
+<navigator class="math" url="../math/math">数学</navigator> 
+<navigator class="politics" url="../politics/politics">政治</navigator> 
+<navigator class="computor" url="../computor/computor">专业</navigator> 
+</view>

@@ -1,0 +1,4 @@
+/* pages/zhengzhi/zhengzhi.wxss */
+page{
+  padding: 10px;
+}
